@@ -1,0 +1,9 @@
+__yuvaraj2selvam_AIRLINES_____
+___________ticket_____________
+______________________________
+customer id     :123
+customer Name   :yuvaraj
+customer gender :m
+description     :
+destination	 :Japan
+flight cost	 :62000
