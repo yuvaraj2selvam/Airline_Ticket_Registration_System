@@ -381,6 +381,7 @@ void mainmenu() {
     } else {
       mainmenu();
     }
+    break;
   }
 
   case 2: {
