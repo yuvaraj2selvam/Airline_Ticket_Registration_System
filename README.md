@@ -12,6 +12,5 @@ Our airline Ticket Registration system has the following features:-
 * Exit
 
     
-
 This project was implemented using c++(oops)
 	
